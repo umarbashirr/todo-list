@@ -1,0 +1,19 @@
+{
+  "todos": [
+    {
+      "id": 1,
+      "task": "A random Task here",
+      "completed": false
+    },
+    {
+      "id": 2,
+      "task": "Learn React Tutorial",
+      "completed": true
+    },
+    {
+      "id": 3,
+      "task": "Learn Nodejs",
+      "completed": false
+    }
+  ]
+}
